@@ -1,0 +1,14 @@
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Release\ResolveAssemblyReference.cache
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Release\foreignCurrencies.Form1.resources
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Release\foreignCurrencies.Resources.resources
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Release\foreignCurrencies.vbproj.GenerateResource.Cache
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Debug\foreignCurrencies.Form1.resources
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Debug\foreignCurrencies.Resources.resources
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Debug\foreignCurrencies.vbproj.GenerateResource.Cache
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\bin\Debug\foreignCurrencies.exe
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\bin\Debug\foreignCurrencies.pdb
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\bin\Debug\foreignCurrencies.xml
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Debug\foreignCurrencies.exe
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Debug\foreignCurrencies.xml
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\foreignCurrencies\foreignCurrencies\obj\Debug\foreignCurrencies.pdb
